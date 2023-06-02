@@ -29,7 +29,7 @@ Our final model also had a Root Mean Squared Error of 256128.9.
 All model features had a p-value < 0.05 (our alpha/significance level), which tells us that all features have a statistically significant linear relationship with price.
 The final model included 4 of the most significant predictor variables of house price. They are, Intercept, grade, sqft_living and bathrooms.
 
-![RESULTS](images/results.png)
+![RESULTS](images/Results.png)
 
 ## Conclusion
 - The model's ability to account for approximately 47% of the variability in house prices, as indicated by the R-squared value of 0.473, shows promise but acknowledges that there are other factors influencing house prices beyond the features included in the model.
